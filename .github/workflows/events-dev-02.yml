@@ -4,8 +4,8 @@ on:
   push:
     paths:
       - '**.md'
-#    branches:
-#       - dev_2_이벤트_종류-2025-06-12
+    branches:
+      - dev_2_이벤트_종류-2025-06-12
 
 jobs:
   dev-02-example-actions:
