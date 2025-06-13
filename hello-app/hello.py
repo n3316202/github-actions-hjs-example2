@@ -1,1 +1,1 @@
-print("Hello from hello.py!")
+print("안녕하세요")
